@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m @btschurl
+- 👋 Hello there, I’m Bartek Tschurl
 - 🌱 I’m currently learning at FULL STACK DEVELOPMENT
 - 💞️ I’m looking to collaborate on JUNIOR LEVEL WEBDEV / JS projects.
 - 📫 Reach me at kontakt@betee.pl or betee.pl
